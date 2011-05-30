@@ -1,6 +1,6 @@
 //dht11.cpp
 //DHT11 Temperature & Humidity Sensor library by George Hadjikyriacou
-//Version 0.2 (24/11/2010)
+//Version 0.1 (24/11/2010)
 //License: GPL v3 (http://www.gnu.org/licenses/gpl.html)
 
 #include "WProgram.h"
